@@ -1,0 +1,2 @@
+Here is the result: Demo for node.js, Hello there, this is the second file
+HelloHere is the result: Demo for node.js, Hello there, this is the second fileHere is the result: Demo for node.js, Hello there, this is the second file
